@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: clumn;
+    flex-direction: column;
     background-color: rgb(177, 225, 255);
 }
 
@@ -31,5 +31,6 @@ button {
 #currentNumber {
     display: flex;
     align-items: center;
+    margin: 0 20px;
     font-size: 16pt;
 }
